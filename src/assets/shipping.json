@@ -1,0 +1,14 @@
+[
+  {
+    "type": "En la Noche",
+    "price": 25.99
+  },
+  {
+    "type": "En el Centro de la Ciudad",
+    "price": 9.99
+  },
+  {
+    "type": "Envio Postal",
+    "price": 2.99
+  }
+]
